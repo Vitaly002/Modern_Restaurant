@@ -24,6 +24,26 @@ HTML5: For clean and semantic structure.
 
 Images: Static assets (imported via constants) to enrich the design with visual elements.
 
+### Key Components
+
+Chef: Highlights the restaurant's philosophy, featuring an image of the chef, a quote, and a brief message about the culinary ethos.
+
+Footer: Displays contact details, working hours, and social media links, with custom imagery and quotes to enhance the user experience.
+
+AboutUs: Introduces the restaurant's story and mission, featuring sections on its history and vision, with imagery and call-to-action buttons for more details.
+
+FindUs: Provides location details, operating hours, and a call-to-action for visiting, alongside a map image for easy navigation.
+
+Gallery: Displays a scrollable image gallery showcasing the restaurant's dishes and ambiance, with Instagram integration for visual engagement.
+
+Header: Presents a welcoming introduction to the website, with a key message about fine dining and a call-to-action to explore the menu.
+
+Intro: Plays a video introducing the restaurant's dining experience, with interactive controls to play and pause the video.
+
+Laurels: Showcases awards and recognition received by the restaurant, featuring imagery and descriptions of accolades to build credibility.
+
+SpecialMenu: Highlights the day's special menu items, including wine, beer, and cocktails, with pricing and ingredient details, along with a call-to-action to view the full menu.
+
 ### Usage
 
 This project is ideal for restaurant landing pages or similar projects where static, yet highly responsive, design is needed. It can be adapted or extended into dynamic projects if needed.
