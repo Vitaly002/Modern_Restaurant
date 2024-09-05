@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Modern_Restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Modern_Restaurant (Gericht) is a beautifully designed, static restaurant website focused on aesthetics, responsiveness, and cross-platform compatibility. This project showcases a modern restaurant layout with engaging components, clean typography, and seamless integration of imagery and content, designed to provide a rich, visual user experience. Though static, the project highlights the power of thoughtful design, offering an appealing digital presence for restaurants.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+Responsive Design: Fully responsive across various devices (mobile, tablet, desktop).
 
-### `npm start`
+Elegant Layout: Uses visually appealing components for sections like the chef’s philosophy, footer, and contact details.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Static Content: There’s no dynamic interaction, but the design elements create a sophisticated, user-friendly experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Cross-Platform: Ensures uniform appearance and functionality on multiple platforms and screen sizes.
 
-### `npm test`
+### Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React.js: For building reusable UI components and structuring the layout.
 
-### `npm run build`
+CSS (Custom & Modules): Ensures custom styling for each component, providing a unique design and responsive behavior.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+React Icons: For incorporating modern and consistent icons across the application (e.g., social media icons in the footer).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+HTML5: For clean and semantic structure.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Images: Static assets (imported via constants) to enrich the design with visual elements.
 
-### `npm run eject`
+### Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is ideal for restaurant landing pages or similar projects where static, yet highly responsive, design is needed. It can be adapted or extended into dynamic projects if needed.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
